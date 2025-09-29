@@ -1,3 +1,5 @@
+// source https://medium.com/@canankorkut1/how-to-create-a-tic-tac-toe-with-html-css-and-javascript-10a25fddd356
+
 let boxes = [...document.querySelectorAll('.box')];
 let resetBtn = document.querySelector('#reset');
 let turnSoulReaper = true; // Soul Reaper (Ichigo) starts
