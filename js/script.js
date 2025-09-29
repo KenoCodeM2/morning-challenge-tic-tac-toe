@@ -1,4 +1,9 @@
-// source https://medium.com/@canankorkut1/how-to-create-a-tic-tac-toe-with-html-css-and-javascript-10a25fddd356
+// Citation
+//  https://medium.com/@canankorkut1 how-to-create-a-tic-tac-toe-with-html-css-and-javascript-10a25fddd356
+// https://www.geeksforgeeks.org/javascript/simple-tic-tac-toe-game-using-javascript/
+//https://www.youtube.com/watch?v=dtaZl_Uxzbo
+//https://www.youtube.com/watch?v=AnmwHjpEhtA
+//https://www.youtube.com/watch?v=knkWr93kClY
 
 let boxes = [...document.querySelectorAll('.box')];
 let resetBtn = document.querySelector('#reset');
